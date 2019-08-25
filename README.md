@@ -6,9 +6,6 @@
 
 ## 二.具体实现
 
-
-![阿里云官方自签名算法](https://user-gold-cdn.xitu.io/2019/8/25/16cc82bad0d0f27d?w=800&h=615&f=png&s=77546)
-
 上图是阿里云OSS官方的[自签名算法](https://help.aliyun.com/document_detail/100669.html?spm=5176.8466029.0.0.69c91450scWicJ)
 
 ## 三.直接上代码
